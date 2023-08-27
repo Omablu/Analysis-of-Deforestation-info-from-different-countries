@@ -19,7 +19,7 @@ Regions Dataset
 ![image](https://github.com/Omablu/Analysis-of-Deforestation-info-from-different-countries/assets/119351114/a97131df-8d58-4f49-afb3-7081bbab0609)
 
 
-  # Question 1: Find the total number of countries involved in deforestation.
+  ** Question 1: Find the total number of countries involved in deforestation. **
   
   ![image](https://github.com/Omablu/Analysis-of-Deforestation-info-from-different-countries/assets/119351114/5567d3dd-db23-4528-aa41-3ac700a0c01e)
 
