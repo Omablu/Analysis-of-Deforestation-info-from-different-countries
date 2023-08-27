@@ -14,7 +14,8 @@ All three datasets were used to generate insights and answer the following quest
   To start, I created a database named Deforestation_Analysis and loaded the three datasets into the SQL server
 Regions Dataset
 
-![image](https://github.com/Omablu/Analysis-of-Deforestation-info-from-different-countries/assets/119351114/d4e70124-5bb8-4cdd-a4d2-b50ad1f8545c)           ![image](https://github.com/Omablu/Analysis-of-Deforestation-info-from-different-countries/assets/119351114/49590e33-94f3-4e16-93fc-d80570588439)               ![image](https://github.com/Omablu/Analysis-of-Deforestation-info-from-different-countries/assets/119351114/a97131df-8d58-4f49-afb3-7081bbab0609)
+![image](https://github.com/Omablu/Analysis-of-Deforestation-info-from-different-countries/assets/119351114/d4e70124-5bb8-4cdd-a4d2-b50ad1f8545c)               ![image](https://github.com/Omablu/Analysis-of-Deforestation-info-from-different-countries/assets/119351114/49590e33-94f3-4e16-93fc-d80570588439)              
+![image](https://github.com/Omablu/Analysis-of-Deforestation-info-from-different-countries/assets/119351114/a97131df-8d58-4f49-afb3-7081bbab0609)
 
 
 
